@@ -21,6 +21,3 @@ export DJANGO_SUPERUSER_EMAIL=test@test.com
 export DJANGO_SUPERUSER_PASSWORD=admin
 export DJANGO_SUPERUSER_USERNAME=admin
 python manage.py createsuperuser --no-input
-
-
-python manage.py createsuperuser
